@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.Elemento{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 1000px;
+  height: 20px;
+}
+.Lista{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+.i{
+  flex:1;
+}
